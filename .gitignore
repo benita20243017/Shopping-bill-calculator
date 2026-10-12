@@ -1,0 +1,18 @@
+# Maven build project
+# Intellij IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Java / Spring Boot build output
+/target/
+**/target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# H2 local database
+/data/
